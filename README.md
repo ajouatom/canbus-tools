@@ -119,6 +119,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) - A python scantool to read OBD2 info from cars
 * [O2OO](https://www.vanheusden.com/O2OO/) - OBD-II compliant car diagnostic tool. It reads sensor data from a car into an sqlite database
 * [freediag](https://github.com/fenugrec/freediag) - Free diagnostic software for OBD-II compliant motor vehicles
+* [StartDiag](https://www.tomelectronics.it/product/StartDiag) - Standalone customizable diagnostic tool via LUA scripting
 
 
 ### J1939 Tools
@@ -225,6 +226,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CANBootloader](https://github.com/596142041/CANBootloader-Qt) - GUI + CAN booloader protocol
 * [ELM327](https://github.com/ObdDiag-Net/allpro) - Open-source ELM327 OBD adapter based on LPC1517JDB48
 * [stm32-CAN-bus-example-HAL-API](https://github.com/timsonater/stm32-CAN-bus-example-HAL-API) - A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions
+* [StartDiag](https://www.tomelectronics.it/product/StartDiag) - Standalone customizable diagnostic tool via LUA scripting
 
 
 #### STM32F042x based HW
