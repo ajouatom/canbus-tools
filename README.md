@@ -83,6 +83,7 @@ URL: https://github.com/iDoka/awesome-canbus
 * [CANgaroo](https://github.com/HubertD/cangaroo) - Qt-based CAN bus analyzer software
 * [CAN-X](https://github.com/karlyamashita/CAN-X) - C# CAN bus analyzer software
 * [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) - universal CAN bus monitoring program
+* [CANExplorer](https://github.com/AKJ7/CANExplorer) - Cross-Platform tool to monitor, analyse, diagnose, simulate, reverse-engineer and test CAN, CAN FD and LIN buses. 
 
 
 #### Python Tools
